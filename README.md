@@ -2,7 +2,7 @@
 # LuxuritoEvent
 Collage Project
 
-- 👋 Hi, I’m @yashchauhhan67
+- 👋 Hi, I’m @itschauhanyash
 - 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning Back-End Development (java , PHP , Python)
 - 💞️ I’m looking to collaborate on Google Dev-Fest
